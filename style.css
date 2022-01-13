@@ -62,22 +62,22 @@ section {
 }
 
 .carica{
-  padding: 15px;
+  height: 35px;
   border-radius: 10px;
   margin-top: 3px;
 }
 
-.media {
+.carica.media {
   background-color: #F4A460;
   width: 40%;
 }
 
-.alta {
+.carica.alta {
   background-color: #00CD00;
   width: 60%;
 }
 
-.bassa {
+.carica.bassa {
   background-color: #CD4F39;
   width: 10%;
 }
